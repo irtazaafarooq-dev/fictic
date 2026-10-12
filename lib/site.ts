@@ -1,4 +1,4 @@
-export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://fictic.vercel.app').replace(/\/$/, '');
+export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://fictic-one.vercel.app').replace(/\/$/, '');
 
 // Pitch site: keep it out of Google until the creator approves it. Set to false to go public.
 export const HIDE_FROM_SEARCH = true;

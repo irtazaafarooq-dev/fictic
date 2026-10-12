@@ -13,4 +13,4 @@ Portfolio for @fictic_editz. Next.js 15 (App Router, fully static), GSAP, Lenis.
   so there are no extra DOM wrappers to break React navigation.
 - Videos play in a modal via youtube-nocookie embeds; no footage is hosted on the site.
 
-SEO URL comes from `NEXT_PUBLIC_SITE_URL` (default https://fictic.vercel.app).
+SEO URL comes from `NEXT_PUBLIC_SITE_URL` (default https://fictic-one.vercel.app).

@@ -9,3 +9,6 @@ next-env.d.ts
 *.tsbuildinfo
 .DS_Store
 Thumbs.db
+
+.vercel
+.env*
